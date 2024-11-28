@@ -34,3 +34,4 @@ Latihan ini bertujuan untuk memahami bagaimana sistem operasi real-time (RTOS) m
 2. Konflik dapat dihindari, dan sistem berfungsi dengan lebih stabil dan terprediksi. 
 
 ## Hasil Percobaan
+https://github.com/user-attachments/assets/7df16fdc-1b41-4115-89fe-73f027f4890c
